@@ -1,5 +1,5 @@
 使用说明：
-1.在 Wireshark 根目录找到 init.lua 文件，并在此文件最下面一行增加 "dofile("mydissector/init.lua")" 即可
+1.在 Wireshark 根目录找到 init.lua 文件，并在此文件最下面一行增加 "dofile("my_wiresharkdissector/init.lua")" 即可
 2.启动后: Analyze -> Enable Protocol ，打开的协议列表中能够看到新增的协议名称。
 3.目前支持的协议有:
   1. REDIS: redis 协议
