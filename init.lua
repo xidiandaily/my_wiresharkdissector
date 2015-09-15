@@ -1,1 +1,1 @@
-dofile("mydissector/redis-wireshark.lua")
+dofile("my_wiresharkdissector/redis-wireshark.lua")
